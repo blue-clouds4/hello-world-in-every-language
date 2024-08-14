@@ -4,7 +4,7 @@ this was done for fun,for i was bored
 this is totally normal repo with normal things,trust me
 > there are 52 languages here,how pretty the world is,how many the binary mimick. pretty isn't it
 
-## side poem,totally not realted to the repo:
+## side poem(not realted to the repo,trust me):
 
 we gods,what do we seek?
 <br>
