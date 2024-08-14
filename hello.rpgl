@@ -1,0 +1,3 @@
+dcl-s message varchar(50);
+message = 'Hello, World!';
+dsply message;
